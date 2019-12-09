@@ -1,0 +1,36 @@
+[33mcommit e6ec425332e75f76006eb6d14a48cd3937523623[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: cb72d8f b11a0fa
+Author: Ramin Marghi <rmarghi@gmail.com>
+Date:   Mon Dec 9 11:23:49 2019 -0800
+
+    Merge branch 'a-feature' to show a non-ff merge
+
+[33mcommit b11a0fabc1227e796716ee994fae1e2e963a0226[m[33m ([m[1;32ma-feature[m[33m)[m
+Author: Ramin Marghi <rmarghi@gmail.com>
+Date:   Mon Dec 9 11:23:12 2019 -0800
+
+    Added yet another new line
+
+[33mcommit cb72d8fe94dc5d87b8ce0a309e9041d5d815dcad[m
+Author: Ramin Marghi <rmarghi@gmail.com>
+Date:   Mon Dec 9 11:02:56 2019 -0800
+
+    Add third line (new) to the file
+
+[33mcommit ed3cdf101bfe0d78519a9df02e636efbaae13519[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: rmarghi <rmarghi@gmail.com>
+Date:   Mon Dec 9 08:41:40 2019 -0800
+
+    Update file s'more
+
+[33mcommit deefdae3806a5f9bd6549b2cbc5c2622c72e2308[m
+Author: Ramin Marghi <rmarghi@gmail.com>
+Date:   Mon Dec 9 07:44:49 2019 -0800
+
+    Add empty readme and index files
+
+[33mcommit 588b34cc8f1bbadd3d0317c60d51cf5c83390aa0[m
+Author: Ramin <rmarghi@gmail.com>
+Date:   Mon Dec 9 07:07:36 2019 -0800
+
+    Add new text file
